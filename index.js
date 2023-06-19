@@ -62,7 +62,7 @@ function promedios() {
     promedio: promedio.toFixed(2)
   };
 
-  return notas;
+  console.log(notas)
 }
 
   
